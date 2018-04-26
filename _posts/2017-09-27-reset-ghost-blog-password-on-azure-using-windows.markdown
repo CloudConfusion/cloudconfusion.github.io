@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Reset Ghost Blog password on Azure using Windows
 date: '2017-09-27 22:59:37'
 tags:

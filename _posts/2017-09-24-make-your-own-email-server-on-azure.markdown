@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Make your own Email Server on Azure
 date: '2017-09-24 13:53:45'
 tags:
