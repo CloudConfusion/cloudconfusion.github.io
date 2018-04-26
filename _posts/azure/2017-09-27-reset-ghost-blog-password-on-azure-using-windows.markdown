@@ -13,6 +13,7 @@ tags:
 - wsl
 - webapps
 ---
+#The ole locked out with keys inside
 
 
 so I made a Ghost blog on an App service on Azure and immediately forgot the password. Didn‘t store it in Lastpass. Nothing. Full on chimp mode. No worries I‘ll click to reset my password link. Easy.
