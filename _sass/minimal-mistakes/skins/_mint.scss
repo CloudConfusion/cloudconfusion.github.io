@@ -3,6 +3,7 @@
    ========================================================================== */
 
 /* Colors */
+$my-purple: #571787 !default;
 $background-color: #f3f6f6 !default;
 $text-color: #000000  !default;
 $muted-text-color: #40514e !default;
@@ -10,12 +11,12 @@ $primary-color: #11999e !default;
 $border-color: mix(#fff, #40514e, 75%) !default;
 $footer-background-color: #30e3ca !default;
 $link-color: #11999e !default;
-$masthead-link-color: #571787 !default;
-$masthead-link-color-hover: #571787 !default;
-$navicon-link-color-hover: mix(#fff, #571787, 80%) !default;
+$masthead-link-color: $my-purple !default;
+$masthead-link-color-hover: $my-purple !default;
+$navicon-link-color-hover: mix(#fff, $my-purple, 80%) !default;
 
 .page__footer {
-  color: #571787 !important; // override
+  color: $my-purple !important; // override
 }
 
 .page__footer-follow .social-icons .svg-inline--fa {
