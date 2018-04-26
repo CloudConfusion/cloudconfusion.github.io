@@ -1,5 +1,5 @@
 ---
-title: Make2 your own Email Server on Azure
+title: Reset ghost blog password on Azure
 date: '2017-09-24 13:53:45'
 category: azure
 tags:
