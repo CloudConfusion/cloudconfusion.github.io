@@ -1,9 +1,7 @@
 ---
 title: Getting started with Powershell for your Ops Team - Source Control
 date: '2017-05-04 22:23:35'
-categories:
-- azure
-- other
+category: azure
 tags:
 - beginner
 - git
