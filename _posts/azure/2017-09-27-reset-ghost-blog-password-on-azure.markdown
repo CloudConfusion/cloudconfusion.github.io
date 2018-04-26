@@ -1,5 +1,5 @@
 ---
-title: Reset Ghost Blog password on Azure using Windows
+title: Reset Ghost Blog password on Azure
 date: '2017-09-27 22:59:37'
 category azure
 tags:
@@ -11,8 +11,8 @@ tags:
 - ubuntu
 - windows-subsystem-for-linux
 - wsl
-- webapps
 ---
+
 #The ole locked out with keys inside
 
 
