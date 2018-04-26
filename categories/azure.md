@@ -4,8 +4,12 @@ title: "Azure Archive"
 ---
 
 
-<div class="tiles">
-{% for post in site.categories.azure %}
-  {% include posts-category.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+<p>Posts in category "azure" are:</p>
+
+<ul>
+  {% for post in site.categories.azure %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
