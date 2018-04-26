@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Cloud Confusion"
 title_separator          : "-"
 name                     : "Gabriel McColl"
-description              : "An amazing website."
+description              : "A blog about mostly IT Stuff, Azure, Microsoft Cloud and SCCM"
 url                      : "https://cloudconfusion.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : cloudconfusion/cloudconfusion.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -75,7 +75,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : gabrielmccoll
 facebook:
   username               :
   app_id                 :
@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Gabriel McColl"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "MCSE Cloud Platform. Scripter. Bit of a dick."
+  location         : "Edinburgh, Scotland"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : gabrielmccoll
   gitlab           :
   google_plus      :
   keybase          :
