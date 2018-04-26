@@ -1,6 +1,6 @@
 ---
 title: Reset Ghost Blog password on Azure
-date: '2017-09-27 22:59:37'
+date: 2017-09-27
 category azure
 tags:
 - foss
@@ -13,7 +13,7 @@ tags:
 - wsl
 ---
 
-# The ole locked out with keys inside
+#The ole locked out with keys inside
 
 
 so I made a Ghost blog on an App service on Azure and immediately forgot the password. Didn‘t store it in Lastpass. Nothing. Full on chimp mode. No worries I‘ll click to reset my password link. Easy.
