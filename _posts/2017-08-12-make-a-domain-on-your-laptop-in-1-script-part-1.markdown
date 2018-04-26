@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: Make a domain on your laptop in 1 script - Part 1
 date: '2017-08-12 22:13:13'
 tags:

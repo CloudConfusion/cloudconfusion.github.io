@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: Contact Us
 date: '2017-01-29 23:21:24'
 ---

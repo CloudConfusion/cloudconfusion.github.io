@@ -1,6 +1,6 @@
 ---
 
-layout: article
+layout: default
 title: Second Real Post
 category: azure
 

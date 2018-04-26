@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: SCCM Solved -Task Sequence Error - objects referenced in the task sequence
   cannot be found
 date: '2017-02-03 13:42:29'

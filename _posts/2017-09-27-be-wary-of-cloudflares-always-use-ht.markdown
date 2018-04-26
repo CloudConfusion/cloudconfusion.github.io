@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: Be wary of Cloudflare's Always use HTTPS
 date: '2017-09-27 22:25:54'
 tags:

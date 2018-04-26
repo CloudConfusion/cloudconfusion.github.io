@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: Group Policy Loopback Clarified
 date: '2017-03-22 14:51:57'
 tags:

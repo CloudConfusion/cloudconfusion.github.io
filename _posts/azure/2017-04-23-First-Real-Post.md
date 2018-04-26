@@ -1,7 +1,7 @@
 ---
 title: First Real Post
 category: azure
-layout: article
+layout: default
 ---
 
 "how do i do a contents page"

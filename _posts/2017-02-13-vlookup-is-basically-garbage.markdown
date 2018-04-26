@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 title: Stop using Vlookup, It's basically garbage
 date: '2017-02-13 14:00:09'
 tags:
