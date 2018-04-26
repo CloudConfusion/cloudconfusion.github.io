@@ -19,7 +19,7 @@ tags:
 so I made a Ghost blog on an App service on Azure and immediately forgot the password. Didn‘t store it in Lastpass. Nothing. Full on chimp mode. No worries I‘ll click to reset my password link. Easy.
 
 Oh yeah, I didn‘t hook it up to any email so it can‘t mail me a link.  
- No problem, I did it in a hurry so it‘s probably one of these standard dev passwords I use for testing. nope. Okay.. I‘ll try ÔÇª ahÔÇª locked outÔÇª. Well.. shit.
+ No problem, I did it in a hurry so it‘s probably one of these standard dev passwords I use for testing. nope. Okay.. I‘ll try ...locked out Well.. shit.
 
 ### The Hunt for a solution begins!
 
@@ -72,17 +72,17 @@ then sqlite3 ghost.db
 
 you‘ll get an sqllite prompt so type
 
-UPDATE users SET password=‘$2a$10$UvclXkN3qwFqEj7nT2uGBedStIdt4rshca5JSzsj9bygk3U/IA7F6ÔÇ▓ WHERE email = ÔÇÿname@domain.com‘;
+UPDATE users SET password=‘$2a$10$UvclXkN3qwFqEj7nT2uGBedStIdt4rshca5JSzsj9bygk3U/IA7F WHERE email = 'name@domain.com‘;
 
 This will set the password of whichever email address to password (change it once you‘re in. Don‘t forget it this time), and remember the ;
 
-Once that happened, I uploaded it back. Tried it and was reminded I was still locked out ya total gimp. I hadn‘t unlocked my user accountÔÇª
+Once that happened, I uploaded it back. Tried it and was reminded I was still locked out ya total gimp. I hadn‘t unlocked my user account
 
 Sooo lucky I still had the ubuntu shell open
 
 sqlite3 ghost.db (again!)
 
-UPDATE users SET status=‘active‘ WHERE email = ÔÇÿname@domain.com‘;
+UPDATE users SET status=‘active‘ WHERE email = 'name@domain.com‘;
 
 NOW you‘re reset AND unlocked. Easy GG.
 
