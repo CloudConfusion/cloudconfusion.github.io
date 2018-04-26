@@ -76,7 +76,7 @@ then sqlite3 ghost.db
 
 you‘ll get an sqllite prompt so type
 
-UPDATE users SET password=‘$2a$10$UvclXkN3qwFqEj7nT2uGBedStIdt4rshca5JSzsj9bygk3U/IA7F WHERE email = 'name@domain.com‘;
+UPDATE users SET password=‘$2b$10$MoxzGW2Lt6e.votfa8y/z.RbftTM.Id76YJMM3wdLuEMB4O7bjJFu' WHERE email = 'name@domain.com‘;
 
 This will set the password of whichever email address to password (change it once you‘re in. Don‘t forget it this time), and remember the ;
 
