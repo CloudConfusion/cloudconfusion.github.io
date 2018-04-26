@@ -1,16 +1,20 @@
 ---
-title: Reset Ghost Blog password on Azure
-date: '2017-09-27 22:59:37'
-category azure
+title: Make2 your own Email Server on Azure
+date: '2017-09-24 13:53:45'
+category: azure
 tags:
+- email
 - foss
+- exchange
 - azure
-- ghost-db
-- oss
-- sqlite3
+- linux
+- namecheap
+- mailinabox
+- mail-server
+- postfix
+- powershell
+- open-source
 - ubuntu
-- windows-subsystem-for-linux
-- wsl
 ---
 
 # The ole locked out with keys inside
