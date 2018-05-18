@@ -5,8 +5,10 @@ date: 2018-05-18 09:33:51 +0059
 category: 
 tags: [Samsung, Android]
 ---
+
 # Designed by an imbecile. A Review
- 
+
+
 It is without a doubt my least favourite  smartphone I’ve owned. 
 It’s not a terrible phone but it is a terrible Android flagship phone and my least favourite Samsung.
 I’ve had the S, S3,S5, S7 edge.   I’ve got an original Note 8.0 AND a Note 10 2014. 
