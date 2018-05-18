@@ -6,7 +6,8 @@ category:
 tags: [Samsung, Android]
 ---
 
-# Designed by an imbecile. A Review
+# Designed by an imbecile. A Review. Important I get those sentences the correct way around.
+
 
 It is without a doubt my least favourite  smartphone I’ve owned. 
 It’s not a terrible phone but it is a terrible Android flagship phone and my least favourite Samsung.
