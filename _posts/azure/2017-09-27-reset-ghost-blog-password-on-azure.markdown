@@ -1,6 +1,7 @@
 ---
 title: Reset Ghost blog password on Azure
 date: '2017-09-24 13:53:45'
+layout: single
 category: azure
 tags:
 - email

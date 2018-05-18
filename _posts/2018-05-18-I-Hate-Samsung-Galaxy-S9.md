@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: SINGLE
 title: I hate the Samsung Galaxy S9
 date: 2018-05-18 09:33:51 +0059
 category: 
@@ -7,7 +7,6 @@ tags: [Samsung, Android]
 ---
 
 # Designed by an imbecile. A Review
-
 
 It is without a doubt my least favourite  smartphone I’ve owned. 
 It’s not a terrible phone but it is a terrible Android flagship phone and my least favourite Samsung.

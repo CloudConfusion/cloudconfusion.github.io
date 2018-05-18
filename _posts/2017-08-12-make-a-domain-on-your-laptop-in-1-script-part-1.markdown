@@ -1,5 +1,6 @@
 ---
 title: Make a domain on your laptop in 1 script - Part 1
+layout: single
 date: '2017-08-12 22:13:13'
 tags:
 - hyper-v

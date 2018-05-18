@@ -1,5 +1,6 @@
 ---
 title: Be wary of Cloudflare's Always use HTTPS
+layout: single
 date: '2017-09-27 22:25:54'
 tags:
 - cloudflare

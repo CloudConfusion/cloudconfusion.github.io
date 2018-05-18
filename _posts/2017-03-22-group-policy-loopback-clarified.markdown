@@ -1,6 +1,7 @@
 ---
 title: Group Policy Loopback Clarified
 date: '2017-03-22 14:51:57'
+layout: single
 tags:
 - group-policy-object
 - loopback
