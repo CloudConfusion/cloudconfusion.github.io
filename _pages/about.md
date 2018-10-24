@@ -12,16 +12,7 @@ title: "About me"
 
 ##### Diary of a Loud Mouthed Braggart from The Future
 
-So, after a good dozen years or more in I.T. I finally picked up some Microsoft Certificates. Now I think I‘m a genius in a $3600 suit and people are incredibly interested in my showing off about all the cool stuff I can do.
+I mess around with a lot of stuff to try it out and then forget what I was doing. 
+Some of it is because perhaps all the links I found to other people's blogs maybe were out of date now and then maybe I wanted to do extra stuff over and above so thought "I'll add on 10% value and pretend I did it ALL. 
 
-More seriously:I've started doing a lot of stuff that is a bit closer to *bleeding edge* ┬than I was previously used to.
-
-(A good edition behind at minimum has been the normal in the finance industries I‘ve frequented).
-
-Turns out when you‘re not on a 5 year tech lag there‘s less info out there.
-
-Now that I‘m doing SCCM CB and updating Windows 10 , Mobile , MDM as it comes out almost, Office 365 is flying in there and Azure is cutting a fine dash, I thought I‘d try to both keep track of what I did to get stuff working and try and increase the amount of info available in a nice clear style.
-
-Or I‘m┬hustling to try and get Microsoft MVP,
-
-not quite sure myself. Probably 40/60.
+I'm mostly a Microsoft punter. Winops or whatever.
