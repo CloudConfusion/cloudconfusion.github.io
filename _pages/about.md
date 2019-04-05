@@ -16,3 +16,8 @@ I mess around with a lot of stuff to try it out and then forget what I was doing
 Some of it is because perhaps all the links I found to other people's blogs maybe were out of date now and then maybe I wanted to do extra stuff over and above so thought "I'll add on 10% value and pretend I did it ALL. 
 
 I'm mostly a Microsoft punter. Winops or whatever.
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="996d0963-3ca8-4d27-bcf5-dca74acb4ee9"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+
