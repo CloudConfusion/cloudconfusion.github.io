@@ -18,6 +18,8 @@ Some of it is because perhaps all the links I found to other people's blogs mayb
 I'm mostly a Microsoft punter. Winops or whatever.
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="996d0963-3ca8-4d27-bcf5-dca74acb4ee9"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+MCSA, MCSE and AWS Solutions Architect Associate at moment. 
+
+Gotta catch them all
 
 
